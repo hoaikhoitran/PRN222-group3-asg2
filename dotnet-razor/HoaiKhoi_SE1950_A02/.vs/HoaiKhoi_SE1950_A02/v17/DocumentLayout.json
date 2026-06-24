@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.razorpages\\pages\\documents\\upload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|solutionrelative:academicdocumentragsystem.razorpages\\pages\\documents\\upload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.razorpages\\pages\\documents\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|solutionrelative:academicdocumentragsystem.razorpages\\pages\\documents\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D948A63A-4BC6-4A18-9D08-853297729A13}|AcademicDocumentRagSystem.Services\\AcademicDocumentRagSystem.Services.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.services\\ragintegration\\ragapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D948A63A-4BC6-4A18-9D08-853297729A13}|AcademicDocumentRagSystem.Services\\AcademicDocumentRagSystem.Services.csproj|solutionrelative:academicdocumentragsystem.services\\ragintegration\\ragapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.razorpages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|solutionrelative:academicdocumentragsystem.razorpages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.razorpages\\pages\\documents\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|solutionrelative:academicdocumentragsystem.razorpages\\pages\\documents\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.razorpages\\pages\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|solutionrelative:academicdocumentragsystem.razorpages\\pages\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.razorpages\\pages\\documents\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|solutionrelative:academicdocumentragsystem.razorpages\\pages\\documents\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.razorpages\\pages\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|solutionrelative:academicdocumentragsystem.razorpages\\pages\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|solutionrelative:academicdocumentragsystem.razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D948A63A-4BC6-4A18-9D08-853297729A13}|AcademicDocumentRagSystem.Services\\AcademicDocumentRagSystem.Services.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.services\\implementations\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D948A63A-4BC6-4A18-9D08-853297729A13}|AcademicDocumentRagSystem.Services\\AcademicDocumentRagSystem.Services.csproj|solutionrelative:academicdocumentragsystem.services\\implementations\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|d:\\basic-retrieval-augmented-generation\\dotnet-razor\\hoaikhoi_se1950_a02\\academicdocumentragsystem.razorpages\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{563724A8-1A69-474F-A266-1AEB2AA20A1A}|AcademicDocumentRagSystem.RazorPages\\AcademicDocumentRagSystem.RazorPages.csproj|solutionrelative:academicdocumentragsystem.razorpages\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Upload.cshtml",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Upload.cshtml",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Upload.cshtml",
+              "RelativeToolTip": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Upload.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T08:24:25.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upload.cshtml.cs",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Upload.cshtml.cs",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Upload.cshtml.cs",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Upload.cshtml.cs",
+              "RelativeToolTip": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Upload.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:22:45.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Index.cshtml",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Index.cshtml",
+              "RelativeToolTip": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T08:22:32.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Details.cshtml.cs",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Details.cshtml.cs",
+              "RelativeToolTip": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:20:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Index.cshtml.cs",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Index.cshtml.cs",
+              "RelativeToolTip": "AcademicDocumentRagSystem.RazorPages\\Pages\\Documents\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:20:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.RazorPages\\Program.cs",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Program.cs",
+              "RelativeToolTip": "AcademicDocumentRagSystem.RazorPages\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:19:40.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RagApiClient.cs",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.Services\\RagIntegration\\RagApiClient.cs",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.Services\\RagIntegration\\RagApiClient.cs",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.Services\\RagIntegration\\RagApiClient.cs",
+              "RelativeToolTip": "AcademicDocumentRagSystem.Services\\RagIntegration\\RagApiClient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:19:00.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\appsettings.json",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.RazorPages\\appsettings.json",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\appsettings.json",
+              "RelativeToolTip": "AcademicDocumentRagSystem.RazorPages\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T08:19:07.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.Services\\Implementations\\DocumentService.cs",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.Services\\Implementations\\DocumentService.cs",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.Services\\Implementations\\DocumentService.cs",
+              "RelativeToolTip": "AcademicDocumentRagSystem.Services\\Implementations\\DocumentService.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:19:27.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.RazorPages\\Pages\\Courses\\Index.cshtml.cs",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeToolTip": "AcademicDocumentRagSystem.RazorPages\\Pages\\Courses\\Index.cshtml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T08:09:36.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcademicDocumentRagSystem.RazorPages\\Pages\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\Basic-Retrieval-Augmented-Generation\\dotnet-razor\\HoaiKhoi_SE1950_A02\\AcademicDocumentRagSystem.RazorPages\\Pages\\Courses\\Index.cshtml",
+              "RelativeToolTip": "AcademicDocumentRagSystem.RazorPages\\Pages\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T08:09:34.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

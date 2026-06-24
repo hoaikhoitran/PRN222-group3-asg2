@@ -1,0 +1,26 @@
+# Local overrides for rag-service.
+# The repository root .gitignore already covers Python, .env, ChromaDB,
+# storage/documents, IDE, and OS junk. Add per-service-only entries below.
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Local runtime data
+chroma_db/*
+!chroma_db/.gitkeep
+storage/documents/*
+!storage/documents/.gitkeep
+
+# Stray file from a botched PowerShell command
+New-Item
+
+# Logs
+*.log
