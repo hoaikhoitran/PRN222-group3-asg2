@@ -280,6 +280,16 @@ namespace AcademicDocumentRagSystem.Services.Implementations
                 {
                     throw new ArgumentException("Assigned course was not found.");
                 }
+
+                var assignedTeacher = (await _accountRepository.GetAllAsync(null, 2, null))
+                    .FirstOrDefault(a =>
+                        a.CourseId == courseId.Value &&
+                        (!accountId.HasValue || a.AccountId != accountId.Value));
+
+                if (assignedTeacher != null)
+                {
+                    throw new ArgumentException("This course already has an assigned teacher.");
+                }
             }
         }
 
